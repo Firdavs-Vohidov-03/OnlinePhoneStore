@@ -1,0 +1,35 @@
+C:\Users\User\Desktop\ConstructionStore\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\User\Desktop\ConstructionStore\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\User\Desktop\ConstructionStore\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\User\Desktop\ConstructionStore\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ConstructionStore\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ConstructionStore\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\ConstructionStore\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ConstructionStore\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\User\Desktop\ConstructionStore\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\User\Desktop\ConstructionStore\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\User\Desktop\ConstructionStore\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\User\Desktop\ConstructionStore\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\User\Desktop\CurtainStore\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\User\Desktop\CurtainStore\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\User\Desktop\CurtainStore\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\User\Desktop\CurtainStore\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CurtainStore\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CurtainStore\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\CurtainStore\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CurtainStore\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\User\Desktop\CurtainStore\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\User\Desktop\CurtainStore\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\User\Desktop\CurtainStore\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\User\Desktop\CurtainStore\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\hp victus\Desktop\CurtainStore\CurtainStore\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\hp victus\Desktop\CurtainStore\CurtainStore\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\hp victus\Desktop\CurtainStore\CurtainStore\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\hp victus\Desktop\CurtainStore\CurtainStore\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp victus\Desktop\CurtainStore\CurtainStore\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\hp victus\Desktop\CurtainStore\CurtainStore\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\hp victus\Desktop\CurtainStore\CurtainStore\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\hp victus\Desktop\CurtainStore\CurtainStore\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\hp victus\Desktop\CurtainStore\CurtainStore\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\hp victus\Desktop\CurtainStore\CurtainStore\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\hp victus\Desktop\CurtainStore\CurtainStore\Domain\obj\Debug\net8.0\ref\Domain.dll

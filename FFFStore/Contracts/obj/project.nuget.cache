@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "hsFcMPqLjTU4fibNCn3+nI5mW79vcUY+OaIxz9mYY/Li8x4tQigWV7dkVRQTf0i1/tI34bGyy4EI6FZ+bYdf6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp victus\\Desktop\\CurtainStore\\CurtainStore\\Contracts\\Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp victus\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\hp victus\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\hp victus\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\hp victus\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\hp victus\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
